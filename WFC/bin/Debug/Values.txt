@@ -1,0 +1,73 @@
+method="Harrison" name="lava" N="2" indexed="True"
+
+method="Harrison" name="water1" N="3"
+
+method="Harrison" name="forest1" N="1"
+
+method="Harrison" name="forest1" N="2" M="5"
+
+method="Harrison" name="forest1" N="3" polish="3"
+
+method="Harrison" name="cobbles48" N="3" polish="6"
+
+method="Harrison" name="water3" N="3"
+
+method="Harrison" name="water4" N="6"
+
+method="Harrison" name="brocks" N="1"
+
+method="Harrison" name="brocks" N="2"
+
+method="Harrison" name="forest2" N="1"
+
+method="Harrison" name="forest2" N="2"
+
+method="Harrison" name="forest2" N="4"
+
+method="Harrison" name="bluehalls" N="1" polish="5"
+
+method="Harrison" name="skulls" N="3"
+
+method="Harrison" name="strangegrass" N="3"
+
+method="Harrison" name="grass48" N="1"
+
+method="Harrison" name="sword" N="6"
+
+method="Harrison" name="redfoam" N="1"
+
+method="Harrison" name="redfoam" N="2"
+
+method="Harrison" name="redfoam" N="3"
+
+method="Coherent" name="mountains" indexed="True" K="3" N="2"
+
+method="Coherent" name="hills" indexed="True" K="3" N="2"
+
+method="Coherent" name="grass" indexed="True" K="3" N="2"
+
+method="Coherent" name="forest1" indexed="True" K="4" N="2"
+
+method="Coherent" name="water3" indexed="True" K="4" N="3"
+
+method="Coherent" name="shallows" indexed="True" K="4" N="3"
+
+method="Full" name="sand1" indexed="False" N="3"
+
+method="Full" name="sand2" indexed="False" N="3"
+
+method="Full" name="lava" indexed="False" N="3"
+
+method="Full" name="stones" indexed="False" N="3"
+
+method="Full" name="wall" indexed="False" N="2"
+
+method="Full" name="vines" indexed="True" N="3"
+
+method="Full" name="vines" indexed="False" N="2"
+
+method="Full" name="redfoam" indexed="False" N="3"
+
+method="Full" name="redfoam" indexed="False" N="2"
+
+method="Full" name="water2" indexed="False" N="3"
