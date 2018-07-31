@@ -4,15 +4,6 @@ using System.Drawing;
 using System.ComponentModel;
 using System.Collections.Generic;
 
-/*
-     public int k = 1;
-    public int n = 1;
-    public int m = 20;
-    public int polish = 3;
-    public int width = 32;
-    public int height = 32; 
- */
-
 public static class SynTex
 {
     public static Bitmap Generate(Bitmap sample, string method = "Harrison", int K = 1, int N = 1, int M = 20, int polish = 3, int OW = 32, int OH = 32, double t = 1.0, bool indexed = true)
