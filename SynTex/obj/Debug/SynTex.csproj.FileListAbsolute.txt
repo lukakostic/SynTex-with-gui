@@ -1,0 +1,10 @@
+E:\Projects\SynTex\SynTex\obj\Debug\SynTex.csprojAssemblyReference.cache
+E:\Projects\SynTex\SynTex\obj\Debug\SynTex.Properties.Resources.resources
+E:\Projects\SynTex\SynTex\obj\Debug\SynTex.csproj.GenerateResource.cache
+E:\Projects\SynTex\SynTex\obj\Debug\SynTex.csproj.CoreCompileInputs.cache
+E:\Projects\SynTex\SynTex\bin\Debug\SynTex.exe.config
+E:\Projects\SynTex\SynTex\bin\Debug\SynTex.exe
+E:\Projects\SynTex\SynTex\bin\Debug\SynTex.pdb
+E:\Projects\SynTex\SynTex\obj\Debug\Form1.resources
+E:\Projects\SynTex\SynTex\obj\Debug\SynTex.exe
+E:\Projects\SynTex\SynTex\obj\Debug\SynTex.pdb
