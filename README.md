@@ -7,7 +7,7 @@ If you are using WFC and specifically SynTex framework/script you know all the p
 This has gui with exposed values making it easy for rapid testing and iteration so you know what kind of results to expect whith which parameters when using SynTex.
 
 The SynTex.cs is modified to be compatible with unity, you can find my unity implementation here:
-<not yet>
+[not yet]
 
 Includes the Samples and the values for the samples, you can find it with the exe in WFC\WFC\bin\Debug
 
