@@ -4,10 +4,9 @@ Modified version of SynTex (implementation of classic texture synthesis algorith
 https://github.com/mxgmn/SynTex
 
 If you use the SynTex framework/script you know all the parameters it has.
-This has gui with exposed values making it easy for rapid testing and iteration so you know what kind of results to expect whith which parameters when using SynTex.
+This has gui with exposed values making it easy for rapid testing and iteration so you know what kind of results to expect with which parameters when using SynTex.
 
-The SynTex.cs is modified to be compatible with unity, you can find my unity implementation here:
-[not yet]
+The SynTex.cs is modified to be compatible with unity.
 
 Includes the Samples and the values for the samples, you can find it with the exe in \SynTex\bin\Debug
 
